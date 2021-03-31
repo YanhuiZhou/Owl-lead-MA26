@@ -1,0 +1,6 @@
+{
+    "host" : "wordpress.ckoizwonzrvu.us-east-2.rds.amazonaws.com",
+    "user" : "admin",
+    "password" : "owlleadma26",
+    "database" : "wordpress"
+}
