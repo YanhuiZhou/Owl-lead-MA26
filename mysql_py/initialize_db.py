@@ -1,3 +1,10 @@
+from sodapy import Socrata
+import pandas as pd
+import mysql.connector as mysql
+import json
+import time
+
+
 #function to make a connection to database
 #configure DB_config.txt to change mysql connection details
 def connect_db():
