@@ -30,7 +30,7 @@ def populate_pd_cnts(cursor , access_token = "RrWl8vIygHuQlviEbWq1TD5zC"):
     results_df = pd.DataFrame.from_records(results)
     sensor_data = results_df[["sensor_id"  , "total_of_directions" , "date_time"]]
     sensors_data_list = [tuple(x) for x in sensor_data.to_numpy()]
-
+    print(sensors_data_list[0:5])
     if sensors_data_list:
         cursor.execute("TRUNCATE pd_cnts")
         Q5 = "INSERT INTO pd_cnts(sensor_id , pedestrian_count , date_time) VALUES (%s, %s , %s)"
