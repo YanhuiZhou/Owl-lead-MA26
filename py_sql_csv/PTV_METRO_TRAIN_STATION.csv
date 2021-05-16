@@ -1,0 +1,37 @@
+WKT,STOP_ID,STOP_NAME,LATITUDE,LONGITUDE,TICKETZONE,ROUTEUSSP
+POINT (144.99016416 -37.82407401),19908,Richmond Railway Station (Richmond),-37.824074,144.990164,1,"Belgrave,Cranbourne,Frankston,Glen Waverley,Lilydale,Pakenham,Sandringham,Alamein"
+POINT (145.02289896 -37.82182599),19905,Hawthorn Railway Station (Hawthorn),-37.821826,145.022899,1,"Belgrave,Lilydale,Alamein"
+POINT (145.03643892 -37.82146698),19904,Glenferrie Railway Station (Hawthorn),-37.821467,145.036439,1,"Belgrave,Lilydale,Alamein"
+POINT (144.98409816 -37.81652697),19979,Jolimont-MCG Railway Station (East Melbourne),-37.816527,144.984098,1,"Mernda,Hurstbridge"
+POINT (144.99142308 -37.814949),19978,West Richmond Railway Station (Richmond),-37.814949,144.991423,1,"Mernda,Hurstbridge"
+POINT (144.97291116 -37.81105398),19843,Parliament Railway Station (Melbourne City),-37.811054,144.972911,1,"Belgrave,Craigieburn,Cranbourne,Flemington,Frankston,Glen Waverley,Hurstbridge,Lilydale,Mernda,Pakenham,Sandringham,Sunbury,Upfield,Werribee,Alamein"
+POINT (144.99249984 -37.81039797),19977,North Richmond Railway Station (Richmond),-37.810398,144.9925,1,"Mernda,Hurstbridge"
+POINT (144.99375012 -37.80452601),19976,Collingwood Railway Station (Abbotsford),-37.804526,144.99375,1,"Mernda,Hurstbridge"
+POINT (144.99445104 -37.79915796),19975,Victoria Park Railway Station (Abbotsford),-37.799158,144.994451,1,"Mernda,Hurstbridge"
+POINT (144.99541692 -37.78865703),19974,Clifton Hill Railway Station (Clifton Hill),-37.788657,144.995417,1,"Mernda,Hurstbridge"
+POINT (144.99240696 -37.78321698),20019,Rushall Railway Station (Fitzroy North),-37.783217,144.992407,1,Mernda
+POINT (144.99923292 -37.78062102),19928,Westgarth Railway Station (Northcote),-37.780621,144.999233,1,Hurstbridge
+POINT (145.00824192 -37.77918696),19929,Dennis Railway Station (Northcote),-37.779187,145.008242,1,Hurstbridge
+POINT (145.01690496 -37.77917103),19930,Fairfield Railway Station (Fairfield),-37.779171,145.016905,1,Hurstbridge
+POINT (145.03125492 -37.77839397),19931,Alphington Railway Station (Alphington),-37.778394,145.031255,1,Hurstbridge
+POINT (144.99297216 -37.77784704),20017,Merri Railway Station (Northcote),-37.777847,144.992972,1,Mernda
+POINT (144.96696396 -37.81830501),19854,Flinders Street Railway Station (Melbourne City),-37.818305,144.966964,1,"Belgrave,Craigieburn,Cranbourne,Flemington,Frankston,Glen Waverley,Hurstbridge,Lilydale,Mernda,Pakenham,Sandringham,Sunbury,Upfield,Werribee,Williamstown,Alamein"
+POINT (144.95141088 -37.81793601),22180,Southern Cross Railway Station (Melbourne City),-37.817936,144.951411,1,"Belgrave,Craigieburn,Cranbourne,Flemington,Frankston,Glen Waverley,Hurstbridge,Lilydale,Mernda,Pakenham,Sandringham,Sunbury,Upfield,Werribee,Williamstown,Alamein"
+POINT (144.95565384 -37.81198098),19841,Flagstaff Railway Station (Melbourne City),-37.811981,144.955654,1,"Belgrave,Craigieburn,Cranbourne,Flemington,Frankston,Glen Waverley,Hurstbridge,Lilydale,Mernda,Pakenham,Sandringham,Sunbury,Upfield,Werribee,Alamein"
+POINT (144.96259392 -37.80993897),19842,Melbourne Central Railway Station (Melbourne City),-37.809939,144.962594,1,"Belgrave,Craigieburn,Cranbourne,Flemington,Frankston,Glen Waverley,Hurstbridge,Lilydale,Mernda,Pakenham,Sandringham,Sunbury,Upfield,Werribee,Alamein"
+POINT (144.94257 -37.80741897),19973,North Melbourne Railway Station (West Melbourne),-37.807419,144.94257,1,"Flemington,Sunbury,Upfield,Werribee,Williamstown,Craigieburn"
+POINT (144.90319896 -37.80108297),20025,Footscray Railway Station (Footscray),-37.801083,144.903199,1,"Werribee,Williamstown,Sunbury"
+POINT (144.92546892 -37.79953101),20026,South Kensington Railway Station (Kensington),-37.799531,144.925469,1,"Williamstown,Werribee"
+POINT (144.93616596 -37.794267),19972,Macaulay Railway Station (North Melbourne),-37.794267,144.936166,1,Upfield
+POINT (144.93052404 -37.79378001),20041,Kensington Railway Station (Kensington),-37.79378,144.930524,1,Craigieburn
+POINT (144.93932316 -37.78813998),19971,Flemington Bridge Railway Station (North Melbourne),-37.78814,144.939323,1,Upfield
+POINT (144.92897784 -37.787328),20040,Newmarket Railway Station (Flemington),-37.787328,144.928978,1,Craigieburn
+POINT (144.95230116 -37.78119297),19970,Royal Park Railway Station (Parkville),-37.781193,144.952301,1,Upfield
+POINT (144.92182104 -37.77530598),20039,Ascot Vale Railway Station (Ascot Vale),-37.775306,144.921821,1,Craigieburn
+POINT (144.98985996 -37.849518),19958,Prahran Railway Station (Prahran),-37.849518,144.98986,1,Sandringham
+POINT (145.00214208 -37.84459104),19947,Hawksburn Railway Station (South Yarra),-37.844591,145.002142,1,"Pakenham,Frankston"
+POINT (145.03355208 -37.83992904),19910,Kooyong Railway Station (Kooyong),-37.839929,145.033552,1,Glen Waverley
+POINT (144.99234216 -37.83844899),19959,South Yarra Railway Station (South Yarra),-37.838449,144.992342,1,"Frankston,Pakenham,Sandringham,Cranbourne"
+POINT (145.02263508 -37.83467196),19909,Heyington Railway Station (Toorak),-37.834672,145.022635,1,Glen Waverley
+POINT (145.00755504 -37.82755998),19906,Burnley Railway Station (Burnley),-37.82756,145.007555,1,"Belgrave,Glen Waverley,Lilydale,Alamein"
+POINT (144.99706608 -37.82639997),19907,East Richmond Railway Station (Richmond),-37.8264,144.997066,1,"Belgrave,Glen Waverley,Lilydale,Alamein"
